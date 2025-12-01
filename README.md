@@ -1,1 +1,0 @@
-# Frequency-of-1-Quadgram-ngram
